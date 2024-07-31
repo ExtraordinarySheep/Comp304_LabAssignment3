@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">sylvia_lab3</string>
+
+    <string name="test_details"> </string>
+    <string name="bph">BPH</string>
+    <string name="temperature">Temp</string>
+    <string name="bpl">BPL</string>
+    <string name="submit">SUBMIT</string>
+    <string name="nurse_id">Nurse ID</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="department">Department</string>
+    <string name="room">Room</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+
+
+</resources>
+
